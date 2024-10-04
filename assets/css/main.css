@@ -29,6 +29,12 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.imageAvatar{
+	height: 218px;
+    width: 89%;
+	margin-bottom:10px
+}
+
 body {
 	line-height: 1;
 }
@@ -2589,7 +2595,7 @@ input, select, textarea {
 
 /* Header */
 .title{
-	font-size:16px;
+	font-size:64px;
 }
 	#header {
 		display: -moz-flex;
