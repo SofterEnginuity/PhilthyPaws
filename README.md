@@ -3,7 +3,7 @@ This page is a responsive version of a BBC News screenshot.
 
 **Link to project:** https://philthypaws.netlify.app/
 
-![alt tag](https://i.imgur.com/7k3XgQj.png)
+![alt tag](https://i.imgur.com/7k3XgQj.pnggitp)
 
 ## How It's Made:
 
