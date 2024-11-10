@@ -1,5 +1,5 @@
-BBC News Replica
-This page is a responsive version of a BBC News screenshot.
+Philthy Paws 
+This page is a responsive site made for a local pet groomer - me! 
 
 **Link to project:** https://philthypaws.netlify.app/
 
