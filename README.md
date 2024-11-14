@@ -3,7 +3,8 @@ This page is a responsive site made for a local pet groomer - me!
 
 **Link to project:** https://philthypaws.netlify.app/
 
-![alt tag](https://i.imgur.com/7k3XgQj.pnggitp)
+
+<img src="https://i.imgur.com/7k3XgQj.pnggitp" width=30% height=30%>
 
 ## How It's Made:
 
